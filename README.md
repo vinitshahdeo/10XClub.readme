@@ -4,6 +4,8 @@ I'm Vinit, another software engineer from Bengaluru, India. I love JavaScript, t
 
 [![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/)
 
+<a href="https://visitorbadge.io/status?path=vinitshahdeo%2F10xclub.readme"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=20594326" target="_blank" style="display: block" align="center">

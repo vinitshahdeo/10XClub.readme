@@ -46,4 +46,10 @@ I love to work with these languages:
 
 ![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)
 
+## Support
+
+Thank for starring my repository. 
+
+[![Stargazers repo roster for @vinitshahdeo/vinitshahdeo](https://reporoster.com/stars/dark/vinitshahdeo/vinitshahdeo)](https://github.com/vinitshahdeo/vinitshahdeo/stargazers)
+
 

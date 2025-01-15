@@ -1,3 +1,13 @@
+<br/><br/>
+
+-----
+-----
+> [!IMPORTANT]  
+> This is a sample profile `README.md` created as part of a workshop conducted by **[10X Club](https://www.codingninjas.com/landing/10x-club/) by Coding Ninjas**. You can find my personal GitHub profile `README` [here](https://github.com/vinitshahdeo). **All the materials and references used during the session are available in [RESOURCES.md](./RESOURCES.md).**
+-----
+-----
+<br/><br/>
+
 ## 👋 Hello, I'm Vinit!
 #### 👨‍💻 Software Engineer | 📍 Bengaluru, India
 

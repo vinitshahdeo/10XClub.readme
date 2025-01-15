@@ -1,8 +1,9 @@
-Hello,
-
-I'm Vinit, another software engineer from Bengaluru, India. I love JavaScript, tea and books.
+## 👋 Hello, I'm Vinit!
+#### 👨‍💻 Software Engineer | 📍 Bengaluru, India
 
 [![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/) ![](https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none)
+
+I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 
 <!-- Copy-paste in your Readme.md file -->
 
@@ -17,6 +18,7 @@ I'm Vinit, another software engineer from Bengaluru, India. I love JavaScript, t
 
 ### Skills
 
+I work with various technologies as mentioned below:
 
 ![JavaScript](https://img.shields.io/badge/React-red?logo=react&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -30,27 +32,28 @@ I'm Vinit, another software engineer from Bengaluru, India. I love JavaScript, t
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
 
+Below are my top languages based on my open-source contributions:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&hide_progress=true)
+
 ### Blogs
+
+Sometimes I write,
 
 - [Become a good software engineer](https://vinitshahde.dev/)
 - [Become a good human](https://vinitshahde.dev/blog)
 
-I love to work with these languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&hide_progress=true)
 
 ### Socials
 
-- LinkedIn
-- Twitter
-- Peerlist
-- Stackoverflow
+I'm always happy to connect on LinkedIn / Twitter.
 
-![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)
+- ![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo)
+- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)
 
 ## Support
 
-Thank for starring my repository. 
+Thank you for starring my repository.
 
 [![Stargazers repo roster for @vinitshahdeo/vinitshahdeo](https://reporoster.com/stars/dark/vinitshahdeo/vinitshahdeo)](https://github.com/vinitshahdeo/vinitshahdeo/stargazers)
 

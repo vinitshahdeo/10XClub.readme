@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Vinit!
 #### 👨‍💻 Software Engineer | 📍 Bengaluru, India
 
-[![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/) ![](https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none)
+[![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/) ![](https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo)](https://github.com/vinitshahdeo)
 
 I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 
@@ -38,18 +38,22 @@ Below are my top languages based on my open-source contributions:
 
 ### Blogs
 
+[![Blog](https://img.shields.io/badge/vinitshahdeo.dev-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev) [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://vinitshahdeo.substack.com/)
+
 Sometimes I write,
 
-- [Become a good software engineer](https://vinitshahde.dev/)
-- [Become a good human](https://vinitshahde.dev/blog)
-
+- [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
+- [My First Novoversary: Celebrating one year of building neobanking solutions at Novo](https://vinitshahdeo.dev/celebrating-one-year-at-novo-software-engineer-experience)
+- [Free Developer Portfolio Template: Astro + Tailwind CSS](https://javascript.plainenglish.io/free-developer-portfolio-template-astro-tailwind-css-dd24db526467)
+- [My friend's LinkedIn account was hacked; are you vulnerable too? 🔐](https://vinitshahdeo.dev/my-friends-linkedin-account-was-hacked-are-you-vulnerable-too)
 
 ### Socials
 
 I'm always happy to connect on LinkedIn / Twitter.
 
-- ![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo)
-- ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)
+- [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)](https://x.com/Vinit_Shahdeo)
+- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/)
+- [![Peerlist](https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist)](https://peerlist.io/vinitshahdeo)
 
 ## Support
 

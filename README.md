@@ -7,6 +7,8 @@ I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 
 <!-- Copy-paste in your Readme.md file -->
 
+### 🚀 My Work in Action
+
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=20594326" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=20594326&image_size=auto&color_scheme=dark" width="771" height="auto">
@@ -16,9 +18,7 @@ I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-### Skills
-
-I work with various technologies as mentioned below:
+### 🔧 Technologies I Work With
 
 ![JavaScript](https://img.shields.io/badge/React-red?logo=react&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -32,32 +32,35 @@ I work with various technologies as mentioned below:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
 
-Below are my top languages based on my open-source contributions:
+### 🏆 GitHub Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&hide_progress=true)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=vinitshahdeo&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitshahdeo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>
 
-### Blogs
+### ✍️ Blogs
 
 [![Blog](https://img.shields.io/badge/vinitshahdeo.dev-2962FF?logo=hashnode&logoColor=white)](https://vinitshahdeo.dev) [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](https://vinitshahdeo.substack.com/)
 
-Sometimes I write,
+I enjoy sharing my knowledge and experiences through writing. Check out some of my recent posts:
 
 - [10 lessons I've learned as a Software Engineer at Postman](https://vinitshahdeo.dev/10-lessons-learned-as-software-engineer-at-postman)
 - [My First Novoversary: Celebrating one year of building neobanking solutions at Novo](https://vinitshahdeo.dev/celebrating-one-year-at-novo-software-engineer-experience)
 - [Free Developer Portfolio Template: Astro + Tailwind CSS](https://javascript.plainenglish.io/free-developer-portfolio-template-astro-tailwind-css-dd24db526467)
 - [My friend's LinkedIn account was hacked; are you vulnerable too? 🔐](https://vinitshahdeo.dev/my-friends-linkedin-account-was-hacked-are-you-vulnerable-too)
 
-### Socials
+###  🤝 Connect with me
 
-I'm always happy to connect on LinkedIn / Twitter.
+I'm always open to collaborations and discussions. Let's connect!
 
 - [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vinit_shahdeo)](https://x.com/Vinit_Shahdeo)
 - [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=vinitshahdeo&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/vinitshahdeo/)
 - [![Peerlist](https://img.shields.io/badge/Peerlist-vinitshahdeo-00AB46?logo=peerlist)](https://peerlist.io/vinitshahdeo)
 
-## Support
+### ❤️ Support
 
-Thank you for starring my repository.
+If you find my work inspiring, consider starring my repository!
 
 [![Stargazers repo roster for @vinitshahdeo/vinitshahdeo](https://reporoster.com/stars/dark/vinitshahdeo/vinitshahdeo)](https://github.com/vinitshahdeo/vinitshahdeo/stargazers)
 

@@ -2,9 +2,7 @@ Hello,
 
 I'm Vinit, another software engineer from Bengaluru, India. I love JavaScript, tea and books.
 
-[![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/)
-
-<a href="https://visitorbadge.io/status?path=vinitshahdeo%2F10xclub.readme"><img src="https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍 %20 Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none" /></a>
+[![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/) ![](https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none)
 
 <!-- Copy-paste in your Readme.md file -->
 

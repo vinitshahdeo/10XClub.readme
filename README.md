@@ -13,7 +13,7 @@
 
 [![LeetCode user vinitshahdeo](https://img.shields.io/badge/dynamic/json?labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow)](https://leetcode.com/vinitshahdeo/) ![](https://api.visitorbadge.io/api/visitors?path=vinitshahdeo%2F10xclub.readme&label=🌍%20Total%20Visitors&countColor=%23263759&style=flat&labelStyle=none) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo)](https://github.com/vinitshahdeo)
 
-I love JavaScript, tea ☕, and books 📚. Below is my GitHub Stats:
+I love JavaScript, tea ☕, and books 📚.
 
 <!-- Copy-paste in your Readme.md file -->
 
